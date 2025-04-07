@@ -2,6 +2,6 @@
   "name": "MicroPIC Energy Meter",
   "country": "ES",
   "homeassistant": "2023.7.0",
-  "domains": ["micropic_energy_meter"],
+  "domain": "micropic_energy_meter",
   "render_readme": true
 }
