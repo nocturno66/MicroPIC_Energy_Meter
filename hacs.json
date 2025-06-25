@@ -1,7 +1,4 @@
 {
   "name": "MicroPIC Energy Meter",
-  "domain": "micropic_energy_meter",
-  "documentation": "https://github.com/nocturno66/MicroPIC_Energy_Meter",
-  "codeowners": ["@nocturno66"],
-  "requirements": []
+  "render_readme": true
 }
