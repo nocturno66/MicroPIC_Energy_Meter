@@ -1,12 +1,12 @@
 {
     "domain": "micropic_energy_meter",
     "name": "Micropic Energy Meter",
-    "codeowners": ["@Manolo"],
+    "codeowners": ["@nocturno66"],
     "config_flow": true,
     "dependencies": ["mqtt"],
-    "documentation": "https://github.com/nocturno66/MicroPIC-Energy-Meter-comp",
+    "documentation": "https://github.com/nocturno66/MicroPIC_Energy_Meter",
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/nocturno66/MicroPIC-Energy-Meter-comp/issues",
+    "issue_tracker": "https://github.com/nocturno66/MicroPIC_Energy_Meter/issues",
     "requirements": [],
     "version": "1.0.2"
 }
